@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
   res.json([
     {
       id: "1",
-      title: "Book Review: The Bear & Nightingale Dreams",
+      title: "Book Review: The Bear & The Nightingale Dreams",
     },
     {
       id: "2",
